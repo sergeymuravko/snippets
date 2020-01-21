@@ -1,6 +1,6 @@
 # snippets
 
-## How to install supervisor on Amazon Linux
+## 0. How to install supervisor on Amazon Linux
 
 ### install epel
 sudo amazon-linux-extras install epel
